@@ -22,12 +22,6 @@ outputs:
     type: pdf_sch_print
     options:
       output: output/%f_schematic.pdf
-  - name: Render 3D
-    comment: Render 3D
-    type: render_3d
-    options:
-      format: png
-      output: output/%f_render_3d.png
   - name: Blender 3D
     comment: Blender 3D
     type: blender_export
@@ -35,6 +29,13 @@ outputs:
       render_options:
         samples: 10
         no_denoiser: true
+      pcb_import:
+        solder_joings: ALL
+      light:
+        - name: Main light
+          energy: 0
+          type: SUN
+          pos_x: 1
       outputs:
         - type: render
           output: output/%f_blender.png
