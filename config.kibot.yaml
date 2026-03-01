@@ -1,0 +1,11 @@
+kibot:
+  version: 1
+
+outputs:
+  - name: 'PCB_top_render'
+    type: pcbdraw
+    options:
+      format: png
+      show_components: all
+      dpiaware: true
+      
