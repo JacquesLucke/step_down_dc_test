@@ -32,10 +32,10 @@ outputs:
     comment: Blender 3D
     type: blender_export
     options:
-      render: true
-      samples: 10
-      cycles: true
-      view: top
-      zoom: 1.0
+      render_options:
+        samples: 10
+        no_denoiser: true
       format: png
-      output: output/%f_render_blender_3d.png
+      outputs:
+        - type: render
+          outputp: output/%f_blender.png
