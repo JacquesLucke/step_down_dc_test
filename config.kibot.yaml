@@ -33,10 +33,10 @@ outputs:
         solder_joints: ALL
       light:
         - name: Main light
-          energy: 2
+          energy: 3
           type: SUN
       outputs:
         - type: render
           output: output/%f_blender.png
       point_of_view:
-        - rotate_x: 10
+        - rotate_x: 20
