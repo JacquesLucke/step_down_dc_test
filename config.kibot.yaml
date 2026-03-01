@@ -7,7 +7,7 @@ outputs:
     options:
       format: png
       show_components: all
-      outputs: output/top_render.png
+      output: output/top_render.png
   - name: 'Schematic_PDF'
     comment: "Export schematic to PDF"
     type: pdf_sch_print
