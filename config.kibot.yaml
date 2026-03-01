@@ -27,8 +27,8 @@ outputs:
     type: blender_export
     options:
       render_options:
-        samples: 3
-        no_denoiser: true
+        samples: 10
+        transparent_background: true
       pcb_import:
         solder_joints: ALL
       light:
@@ -39,3 +39,6 @@ outputs:
       outputs:
         - type: render
           output: output/%f_blender.png
+      point_of_view:
+        - rotate_x: 30
+          rotate_z: -30
