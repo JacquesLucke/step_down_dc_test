@@ -143,7 +143,7 @@
 		(property ki_fp_filters "TO?252*")
 		(path "/8e2695b9-8c98-4d28-be3a-6b366f9e1bf5")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.31 -3.45)
@@ -437,7 +437,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e9ca6070-2d81-4ba2-aeb4-89fa3c20dfd1")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -636,7 +636,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ef3440a0-85fc-4430-95f0-8cac8ec4b67f")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -836,7 +836,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f1b6481c-3a28-4eb0-adbb-8112fa34e212")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.38 -2.65)
@@ -1156,7 +1156,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3f8df31a-ffb5-4f52-9741-ae4ee67bdf39")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -1355,7 +1355,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c7cf460d-f82f-4c76-966b-7780a040122b")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -1555,7 +1555,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cf456234-3b0d-40a4-b889-c714ba9060ba")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -1755,7 +1755,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ae5a3816-ea2b-4b28-90a8-9285c7219bfd")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.38 2.08)
@@ -2075,7 +2075,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5c46439a-5718-4039-b3ab-7cccc5dea1d1")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -2275,7 +2275,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8ff1b4b1-62fc-46a0-a670-ab27faee3482")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -2475,7 +2475,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3b986e2e-1137-4b21-b091-87eaf5bff5db")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -2675,7 +2675,7 @@
 		(property ki_fp_filters "TSOT?23?6*")
 		(path "/fd041cbb-b313-4042-a427-5261c428fe6c")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.91 -1.56)
@@ -3021,7 +3021,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cba5cacb-0422-478e-ba67-fa6b79d91e62")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -3221,7 +3221,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e33b2037-6fcf-494b-954d-4b01c1a17cb3")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.38 2.08)
@@ -3541,7 +3541,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/4555d8da-be87-48b6-abe2-120a85b5b4e3")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 -1.36)
@@ -3743,7 +3743,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/36d5f16c-58b8-47cc-b005-1cf25d8abd4a")
 		(sheetname "/")
-		(sheetfile "buck_converter_test.kicad_sch")
+		(sheetfile "step_down_dc_test.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -4683,10 +4683,24 @@
 		(filled_polygon
 			(layer "B.Cu")
 			(pts
-				(xy 173.942539 74.020185) (xy 173.988294 74.072989) (xy 173.9995 74.1245) (xy 173.9995 105.8755)
-				(xy 173.979815 105.942539) (xy 173.927011 105.988294) (xy 173.8755 105.9995) (xy 122.3745 105.9995)
-				(xy 122.307461 105.979815) (xy 122.261706 105.927011) (xy 122.2505 105.8755) (xy 122.2505 74.1245)
-				(xy 122.270185 74.057461) (xy 122.322989 74.011706) (xy 122.3745 74.0005) (xy 173.8755 74.0005)
+				(xy 173.506922 74.00128) (xy 173.597266 74.011459) (xy 173.624331 74.017636) (xy 173.70354 74.045352)
+				(xy 173.728553 74.057398) (xy 173.799606 74.102043) (xy 173.821313 74.119355) (xy 173.880644 74.178686)
+				(xy 173.897957 74.200395) (xy 173.9426 74.271444) (xy 173.954648 74.296462) (xy 173.982362 74.375666)
+				(xy 173.98854 74.402735) (xy 173.99872 74.493076) (xy 173.9995 74.506961) (xy 173.9995 105.493038)
+				(xy 173.99872 105.506922) (xy 173.99872 105.506923) (xy 173.98854 105.597264) (xy 173.982362 105.624333)
+				(xy 173.954648 105.703537) (xy 173.9426 105.728555) (xy 173.897957 105.799604) (xy 173.880644 105.821313)
+				(xy 173.821313 105.880644) (xy 173.799604 105.897957) (xy 173.728555 105.9426) (xy 173.703537 105.954648)
+				(xy 173.624333 105.982362) (xy 173.597264 105.98854) (xy 173.517075 105.997576) (xy 173.506921 105.99872)
+				(xy 173.493038 105.9995) (xy 122.756962 105.9995) (xy 122.743078 105.99872) (xy 122.730553 105.997308)
+				(xy 122.652735 105.98854) (xy 122.625666 105.982362) (xy 122.546462 105.954648) (xy 122.521444 105.9426)
+				(xy 122.450395 105.897957) (xy 122.428686 105.880644) (xy 122.369355 105.821313) (xy 122.352042 105.799604)
+				(xy 122.307399 105.728555) (xy 122.295351 105.703537) (xy 122.267637 105.624333) (xy 122.261459 105.597263)
+				(xy 122.25128 105.506922) (xy 122.2505 105.493038) (xy 122.2505 74.506961) (xy 122.25128 74.493077)
+				(xy 122.25128 74.493076) (xy 122.26146 74.402729) (xy 122.267635 74.37567) (xy 122.295353 74.296456)
+				(xy 122.307396 74.27145) (xy 122.352046 74.200389) (xy 122.369351 74.17869) (xy 122.42869 74.119351)
+				(xy 122.450389 74.102046) (xy 122.52145 74.057396) (xy 122.546456 74.045353) (xy 122.62567 74.017635)
+				(xy 122.652733 74.011459) (xy 122.715419 74.004396) (xy 122.743079 74.00128) (xy 122.756962 74.0005)
+				(xy 122.815892 74.0005) (xy 173.434108 74.0005) (xy 173.493038 74.0005)
 			)
 		)
 	)
