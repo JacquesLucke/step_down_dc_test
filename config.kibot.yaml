@@ -12,4 +12,4 @@ outputs:
     comment: "Export schematic to PDF"
     type: pdf_sch_print
     options:
-      output: output/"%f-Schematic.pdf"
+      output: output/"%f-Schematic.pdf
