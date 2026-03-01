@@ -34,11 +34,10 @@ outputs:
       light:
         - name: Main light
           energy: 0
-          type: POINT
-          pos_x: width
+          type: SUN
       outputs:
         - type: render
           output: output/%f_blender.png
       point_of_view:
-        - rotate_x: 30
-          rotate_z: -30
+        - rotate_y: 30
+          rotate_z: 30
