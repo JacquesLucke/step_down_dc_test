@@ -27,15 +27,15 @@ outputs:
     type: blender_export
     options:
       render_options:
-        samples: 10
+        samples: 3
         no_denoiser: true
       pcb_import:
         solder_joints: ALL
       light:
         - name: Main light
           energy: 0
-          type: SUN
-          pos_x: 1
+          type: POINT
+          pos_x: width
       outputs:
         - type: render
           output: output/%f_blender.png
