@@ -28,3 +28,14 @@ outputs:
     options:
       format: png
       output: output/%f_render_3d.png
+  - name: Blender 3D
+    comment: Blender 3D
+    type: blender_export
+    options:
+      render: true
+      samples: 10
+      cycles: true
+      view: top
+      zoom: 1.0
+      format: png
+      output: output/%f_render_blender_3d.png
