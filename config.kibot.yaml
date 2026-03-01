@@ -40,4 +40,3 @@ outputs:
           output: output/%f_blender.png
       point_of_view:
         - rotate_y: 30
-          rotate_z: 30
