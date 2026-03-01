@@ -35,7 +35,6 @@ outputs:
       render_options:
         samples: 10
         no_denoiser: true
-      format: png
       outputs:
         - type: render
           outputp: output/%f_blender.png
