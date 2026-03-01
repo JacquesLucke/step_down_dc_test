@@ -2,23 +2,29 @@ kibot:
   version: 1
 
 outputs:
-  - name: 'PCB_top_render'
-    comment: "Render PCB top side"
+  - name: PCB_top_render
+    comment: Render PCB top side
     type: pcbdraw
     options:
       format: png
       show_components: all
       output: output/%f_pcb_top.png
-  - name: 'PCB_bottom_render'
-    comment: "Render PCB bottom side"
+  - name: PCB_bottom_render
+    comment: Render PCB bottom side
     type: pcbdraw
     options:
       format: png
       show_components: all
       bottom: true
       output: output/%f_pcb_bottom.png
-  - name: 'Schematic_PDF'
-    comment: "Render schematic"
+  - name: Schematic_PDF
+    comment: Render schematic
     type: pdf_sch_print
     options:
       output: output/%f_schematic.pdf
+  - name: Render 3D
+    comment: Render 3D
+    type: render_3d
+    options:
+      format: png
+      output: output/%f_render_3d.png
