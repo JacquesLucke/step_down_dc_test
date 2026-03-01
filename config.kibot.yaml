@@ -7,5 +7,8 @@ outputs:
     options:
       format: png
       show_components: all
-      dpiaware: true
-      
+  - name: 'Schematic_PDF'
+    comment: "Export schematic to PDF"
+    type: pdf_sch_print
+    options:
+      output: "%f-Schematic.pdf"
