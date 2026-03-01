@@ -37,4 +37,4 @@ outputs:
         no_denoiser: true
       outputs:
         - type: render
-          outputp: output/%f_blender.png
+          output: output/%f_blender.png
