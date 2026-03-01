@@ -30,7 +30,7 @@ outputs:
         samples: 10
         no_denoiser: true
       pcb_import:
-        solder_joings: ALL
+        solder_joints: ALL
       light:
         - name: Main light
           energy: 0
