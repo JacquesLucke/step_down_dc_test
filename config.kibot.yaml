@@ -9,14 +9,14 @@ outputs:
       format: png
       show_components: all
       output: output/pcb_top.png
-    - name: 'PCB_bottom_render'
-      comment: "Render PCB bottom side"
-      type: pcbdraw
-      options:
-        format: png
-        show_components: all
-        bottom: true
-        output: output/pcb_bottom.png
+  - name: 'PCB_bottom_render'
+    comment: "Render PCB bottom side"
+    type: pcbdraw
+    options:
+      format: png
+      show_components: all
+      bottom: true
+      output: output/pcb_bottom.png
   - name: 'Schematic_PDF'
     comment: "Render schematic"
     type: pdf_sch_print
